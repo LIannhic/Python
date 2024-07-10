@@ -6,3 +6,11 @@ En effet, print en anglais signifie « imprimer ».
 Chaque ligne du programme représente une instruction.
 
 
+Afficher plusieurs lignes de texte
+
+Pour afficher plusieurs lignes de texte, il faut écrire des instructions d'affichage successives (une par ligne) :
+print("Bonjour !")
+print("Comment vas-tu ?")
+↳ Bonjour !
+  Comment vas-tu ?
+
