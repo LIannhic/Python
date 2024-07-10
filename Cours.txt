@@ -1,0 +1,8 @@
+Afficher du texte
+
+En Python, pour afficher du texte, on écrit print puis, entre parenthèses, le texte à afficher, entre guillemets. Ainsi, pour afficher le mot « Bonjour », on écrira le code suivant :
+print("Bonjour")
+En effet, print en anglais signifie « imprimer ».
+Chaque ligne du programme représente une instruction.
+
+
